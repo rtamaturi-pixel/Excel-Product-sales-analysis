@@ -1,5 +1,6 @@
-Excel - Product Sales Analysis Project
-Project Overview
+#Excel - Product Sales Analysis Project
+
+##Project Overview
 This project demonstrates comprehensive Excel data analysis skills applied to a sales dataset. The analysis covers data cleaning, trend identification, customer segmentation, purchase channel performance, and key business metrics.
 Key Results: Analyzed 443 transactions (₹213,550 total sales), identified top channels/customers, calculated AOV ₹482
 
